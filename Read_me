@@ -1,0 +1,4 @@
+The program consists of the following:
+- "main.py" - includes 2 algorithms. When it runs, an array of size 10 is randomly generated, and the output of the algorithms is printed.
+- "dac.py" and "kadane.py" - .py files for the individual algorithms, used to measure usage of memory and time.
+- "plots.py" - generates the graphs later used in the report.
